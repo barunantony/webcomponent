@@ -5,4 +5,5 @@ https://link.medium.com/Iej5MyRhsX
 // check in services.js
 # how to start the project
 npm install -g static-server
+
 static-server
